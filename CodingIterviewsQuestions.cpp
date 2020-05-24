@@ -2,8 +2,8 @@
 //
 
 #include <iostream>
-#include "utils.h"
 #include <math.h>
+#include "utils.h"
 
 int main()
 {
